@@ -1,0 +1,17 @@
+.navbar{
+    
+    background-color: #e6f0ff;
+}
+
+.logo span i{
+    font-size: 3rem;
+    gap: 1rem;
+    padding: 2rem;
+    color: rgb(85, 41, 220);
+}
+.addnote{
+    font-size: 5rem;
+    gap: 1rem;
+    padding-top: 2rem;
+    color: rgb(85, 41, 220);
+}
